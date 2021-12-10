@@ -1,0 +1,25 @@
+git init    crear repositorio local
+npm init  crea package.json y debemos llenar
+
+npm install react react-dom (instalar react)
+
+ npm install @babel/core @babel/preset-env @babel/preset-react  (instalar babel para react)
+
+npm install webpack webpack-cli webpack-dev-server  (wepack comandos para webpack y servidor local para modo desarrollo)
+
+npm install babel-lader html-loader html-webpack-plugin (istalar loader para trabajo)
+
+npm run start ( ejecutar el proyecto  ver la configuracion del packaje json)
+
+npm install 
+mini-css-extract-plugin css-loader style-loader sass -D
+npm install sass-loader -D
+
+
+git clone https://github.com/platzi/curso-frontend-developer-practico.git
+
+npm install react-router-dom
+
+npm install axios (hacer peticiones)
+
+ npm install @babel/plugin-transform-runtime (cuando no quiere reconocer async await)
